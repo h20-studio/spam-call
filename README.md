@@ -23,4 +23,11 @@ kalau tools ini mati hubungi creator
 - pkg install mc
 
 ## •> CARA INSTALL
+- git clone https://github.com/hendarofficialyt/spam-call
+- ls
+- cd spam-call
+- ls
+- php call.php
 
+## •> FOLLOW ME
+- Youtube: https://youtube.com/c/HendarOfficial1
