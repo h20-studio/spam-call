@@ -1,18 +1,29 @@
 # Spam Call
 ```
-Tools ini dibuat untuk ngerjain
-Kang Ripper atau boleh juga buat
-nyepam Mantan Lu awokawokwkwk:v
+Lumayan buat jailin temen yang lagi nongkrong
+tapi suka main game.
 ```
-> Script ini sewaktu-waktu bisa jadi limit ataupun coid jadi jangan salahin author nya ya goblok.
-## How to it?
-```python
-$ cd spam-call
-$ bash install.sh
+> Script ini limit sekali call 3x nunggu 20 menit
+bisa digunakan kembali
+## Cara install
 ```
-> Get Token [click here](https://bit.ly/TokenSp4mC4ll)
+$ termux-setup-storage
+$ apt upgrade
+$ apt update
+$ pkg update
+$ pkg upgrade
+$ pkg install bash
+$ pkg install git
+$ pip install requests
+$ pip install bs4
+$ pkg install neofetch
+$ pkg install curl
+$ pkg install python
+$ pkg install python2
+$ pkg install python3
+```
 ## Support Me On
-<b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
+<b>• [Instagram](https://instagram.com/h2o_scripter)</b>
 <br>
-<b>• [Youtube](https://www.youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og)</b>
+<b>• [Youtube](https://www.youtube.com/c/HendarOfficial1)</b>
 </br>
