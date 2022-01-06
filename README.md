@@ -1,33 +1,18 @@
-# •> SPAM-CALL
-Tools untuk jailin temen pake panggilan, limit ya ngab 
-kalau tools ini mati hubungi creator
-
-## •> UPDATE TERMUX
-- apt upgrade
-- apt update
-- pkg update
-- pkg upgrade
-- pkg install wget
-- pkg install pip
-- pkg install openssh
-- pkg install ssh
-- pkg install git
-- pkg install php
-- pkg install python
-- pkg install python2
-- pkg install python3
-- pkg install curl
-- pkg install requests
-- pkg install nano
-- pkg install figlet
-- pkg install mc
-
-## •> CARA INSTALL
-- git clone https://github.com/hendarofficialyt/spam-call
-- ls
-- cd spam-call
-- ls
-- php call.php
-
-## •> FOLLOW ME
-- Youtube: https://youtube.com/c/HendarOfficial1
+# Spam Call
+```
+Tools ini dibuat untuk ngerjain
+Kang Ripper atau boleh juga buat
+nyepam Mantan Lu awokawokwkwk:v
+```
+> Script ini sewaktu-waktu bisa jadi limit ataupun coid jadi jangan salahin author nya ya goblok.
+## How to it?
+```python
+$ cd spam-call
+$ bash install.sh
+```
+> Get Token [click here](https://bit.ly/TokenSp4mC4ll)
+## Support Me On
+<b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
+<br>
+<b>• [Youtube](https://www.youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og)</b>
+</br>
